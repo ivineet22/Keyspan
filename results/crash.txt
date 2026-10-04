@@ -1,0 +1,7 @@
+dest_during_copy owner shard-1 servers 1
+source_during_copy owner shard-1 servers 1
+fenced_source_dies owner shard-1 servers 1
+fenced_dest_dies owner shard-1 servers 1
+worker_after_epoch owner shard-2 servers 1
+source_after_commit owner shard-2 servers 1
+dest_after_commit owner shard-2 servers 1

@@ -1,0 +1,3 @@
+hottest_shard shard-3
+hottest_share 41%
+max_over_mean 1.23x
